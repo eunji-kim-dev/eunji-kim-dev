@@ -1,20 +1,15 @@
-# Hi, I'm Eunji Kim 👋
+# 안녕하세요, 백엔드 개발자 김은지입니다 👋
 
-🎓 Computer Science Graduate
+SAP ERP를 4년간 써본 사용자였고, 그 데이터가 시스템 안에서
+어떻게 흐르는지 알고 싶어 소프트웨어융합공학을 전공했습니다.
+현업의 언어와 시스템의 언어를 모두 써본 것이 제 가장 큰 자산입니다.
 
-🌱 Currently learning Spring Boot and Backend Development
+## 어떻게 공부하는가
 
-💻 Interested in Java, Spring Boot, and REST APIs
+새로운 기술을 익힐 때 완성된 코드를 베끼지 않습니다. 실행 흐름을 종이에 한 줄씩 직접 써 내려가며, 각 함수가 어떤 값을 받아 무엇을 바꾸는지, 데이터가 어디로 흘러가는지를 손으로 짚어 추적합니다. 
+그 손글씨 기록을 매번 타이핑으로 정리해 이곳에 쌓고 있습니다. 정돈된 문서와 손글씨 원본이 나란히 남아 있는 이 저장소들은, 단순 복사로는 만들 수 없는 제 학습의 흔적이자 데이터 무결성을 증명하는 자산입니다.
 
-## Tech Stack
+## 기록한 것들
 
-* Java
-* MySQL
-* Git
-* GitHub
-
-## Goals
-
-* Build backend projects with Spring Boot
-* Improve problem-solving skills
-* Grow as a backend developer
+- [저장소명] — 무엇을 추적했는지 한 줄 설명
+- [저장소명] — 무엇을 추적했는지 한 줄 설명
