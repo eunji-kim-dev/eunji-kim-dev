@@ -16,7 +16,7 @@
 공동발명자로 참여해 원본 영상을 직접 샷 단위로 분할하고,  
 실험 검증에 사용할 정답 데이터와 유사도 계산 입력 데이터를 구축했습니다.
 
-### 🎨 [MoodDot]([레포주소](https://github.com/eunji-kim-dev/portfolio))
+### 🎨 [MoodDot](https://github.com/eunji-kim-dev/portfolio)
 **색으로 기록하는 iOS 감정 트래커**
 
 색상 선택 한 번으로 하루의 감정 기록이 완료되는 앱입니다.  
@@ -24,7 +24,7 @@
 
 `Swift` `SwiftUI` `Codable` `UserDefaults`
 
-### 🌱 [spring-study]([레포주소](https://github.com/eunji-kim-dev/spring-study))
+### 🌱 [spring-study](https://github.com/eunji-kim-dev/spring-study)
 **진행 중**
 
 Spring Boot의 핵심 동작 구조를 실행 흐름 중심으로 분석하는 저장소입니다.  
